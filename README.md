@@ -1,5 +1,5 @@
 # Class-Test
-**Practice repository for class
+*Practice repository for class
 ---
 `Who are you? Brian Keys`
 ---
